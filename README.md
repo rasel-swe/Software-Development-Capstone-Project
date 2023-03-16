@@ -1,2 +1,2 @@
-# Hotel-Management-System-
-A complete project HTMS in C programming language 
+# Software Development Capstone Project
+A complete project Hotel Management System in C programming language 
